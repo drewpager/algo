@@ -1,0 +1,7 @@
+# Environment variables
+.env
+
+# Misc
+
+.vscode
+.DS_Store
